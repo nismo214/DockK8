@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: demobookk8s
-        image: richapanjabi/demobook:v1
+        image: richapanjabi/demobook2:v1
         ports:
         - containerPort: 80
